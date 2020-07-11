@@ -1,0 +1,2 @@
+# LSTM-PAPER
+Here we share our experiments regarding training different DRNN configurations on the task of long-term energy consumption prediction. The repository contains a fully-developed pipeline for data preprocessing of a common energy consumption dataset, as well as different file configurations used in the paper. The objective was to optimize the associated hyperparameters, which is a very difficult task.
